@@ -10,7 +10,7 @@ import genericUtility.WebDriverUtility;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import objectRepository.LoginPagePom;
 
-public class Tc_01
+public class Login
 {
 	@Test	
 	public void checklogin() throws Exception
